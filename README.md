@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Kartik 👋
 
-<!--
-**KARTIKLABS/KARTIKLABS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 IoT & Embedded Developer  
+🔧 ESP8266 • Arduino • Python  
+📡 Exploring Cybersecurity, Automation & Systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Embedded: ESP8266, Arduino  
+- Languages: Python, C++  
+- Tools: Git, Linux  
+
+---
+
+## 🚧 Projects
+- 🔹 ESP8266 Duino-Coin Miner (Optimized)
+- 🔹 Smart CCTV AI (Android + RTSP)
+- 🔹 Automation Scripts (Python)
+
+---
+
+## 📈 Currently Learning
+- Embedded optimization  
+- Networking fundamentals  
+- System design basics  
+
+---
+
+## 🎯 Goals
+- Contribute to open-source (Duino-Coin)  
+- Build real-world IoT systems  
+- Land a tech internship  
+
+---
+
+## 📫 Connect with me
+- GitHub: https://github.com/KARTIKLABS
